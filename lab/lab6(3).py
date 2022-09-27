@@ -1,15 +1,23 @@
 import math 
-a=int(input("значення a"))
-b=int(input("значення b"))
-h=int(input("значення h"))
-sp=[]
-for x in range(a,b+1,h):
-  def f(x1):
+def f(x1):
    y=float(2**x1/math.fabs(x1**2+1)+ math.log2(math.fabs(math.fabs(x1)+1)))
-   sp.append(y)
+  
    
    return(y)
-  print(f(x))  
+a=float(input("значення a"))
+b=float(input("значення b"))
+h=float(input("значення h"))
+b1=int(round(b))
+sp=[]
+x=a
+i=a
+for i in range(b1+2):
+  sp.append(f(x))
+  print(f(x)) 
+  x= x+h 
+  if x> b:
+    break
 
-print("найбільше значення ",min(sp))
+print("найменше значення ",min(sp))
 print("найбільше значення ",max(sp))
+print(sp)
