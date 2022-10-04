@@ -1,6 +1,6 @@
 import random 
 N= int(input("кількість рядків: "))
-ABC="ABCEHIKMOOOPTX" 
+ABC="ABCEHIKMOPTX" 
 first=' '
 x=0
 s="" 
