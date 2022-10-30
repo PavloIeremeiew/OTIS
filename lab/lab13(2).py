@@ -1,0 +1,21 @@
+import tric
+T1=tric.TRIANGLE(4,5,3)
+T2=tric.TRIANGLE(4,10,3)
+T3=tric.TRIANGLE(3,5,3)
+print("перший трикутник")
+T1.isset(T1.a,T1.b,T1.c)
+T1.CalcSquare(T1.a,T1.b,T1.c,T1.t)
+T1.ShowSquare(T1.s,T1.t)
+T1.ShowDim(T1.a,T1.b,T1.c,T1.t)
+
+print("другий трикутник")
+T2.isset(T2.a,T2.b,T2.c)
+T2.CalcSquare(T2.a,T2.b,T2.c,T2.t)
+T2.ShowSquare(T2.s,T2.t)
+T2.ShowDim(T2.a,T2.b,T2.c,T2.t)
+
+print("третій трикутник")
+T3.isset(T3.a,T3.b,T3.c)
+T3.CalcSquare(T3.a,T3.b,T3.c,T3.t)
+T3.ShowSquare(T3.s,T3.t)
+T3.ShowDim(T3.a,T3.b,T3.c,T3.t)

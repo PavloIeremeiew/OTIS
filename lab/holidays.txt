@@ -1,0 +1,1435 @@
+
+
+
+
+Worldwide Public Holidays - Nager.Date
+
+
+
+
+
+
+
+
+
+
+
+Nager.Date
+
+
+
+
+
+Countries
+API
+
+
+ GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Countries
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+                                No country found
+                            
+
+
+
+
+
+
+ Next Public Holidays Worldwide in the next 7 days
+
+
+
+
+Date
+Name
+Country
+
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+
+
+
+
+
+
+ Interesting countries for their region
+
+
+
+
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+
+
+{{ border.commonName }}
+
+
+
+
+ Next Public Holidays in {{ countryInfo.commonName }}
+
+
+
+
+Date
+Local Name
+English Name
+
+
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Community
+Nager.Date is an open source project
+                        Released under the MIT License
+
+Visit us on GitHub
+Visit us on dockerhub
+
+                        You are welcome to actively participate in this project
+
+Report a bug
+Actively contribute to the project
+
+
+
+Navigation
+Countries
+Api Documentation
+Change Log
+
+
+Site Information
+Imprint
+Privacy policy
+
+
+
+
+
+        Copyright © 2022 nager.at
+    
+
+
+
+
+
+Worldwide Public Holidays - Nager.Date
+
+
+
+
+
+
+
+
+
+
+Worldwide Public Holidays - Nager.Date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nager.Date
+
+
+
+
+
+Countries
+API
+
+
+ GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Countries
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+                                No country found
+                            
+
+
+
+
+
+
+ Next Public Holidays Worldwide in the next 7 days
+
+
+
+
+Date
+Name
+Country
+
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+
+
+
+
+
+
+ Interesting countries for their region
+
+
+
+
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+
+
+{{ border.commonName }}
+
+
+
+
+ Next Public Holidays in {{ countryInfo.commonName }}
+
+
+
+
+Date
+Local Name
+English Name
+
+
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Community
+Nager.Date is an open source project
+                        Released under the MIT License
+
+Visit us on GitHub
+Visit us on dockerhub
+
+                        You are welcome to actively participate in this project
+
+Report a bug
+Actively contribute to the project
+
+
+
+Navigation
+Countries
+Api Documentation
+Change Log
+
+
+Site Information
+Imprint
+Privacy policy
+
+
+
+
+
+        Copyright © 2022 nager.at
+    
+
+
+
+Nager.Date
+
+
+
+
+
+Countries
+API
+
+
+ GitHub
+
+
+
+
+
+Nager.Date
+
+
+
+
+
+Countries
+API
+
+
+ GitHub
+
+
+
+Nager.Date
+
+
+
+
+
+
+Countries
+API
+
+
+ GitHub
+
+
+
+Countries
+API
+
+Countries
+Countries
+API
+API
+
+ GitHub
+
+ GitHub
+ GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+ Countries
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+                                No country found
+                            
+
+
+
+
+
+
+ Next Public Holidays Worldwide in the next 7 days
+
+
+
+
+Date
+Name
+Country
+
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+
+
+
+
+
+
+ Interesting countries for their region
+
+
+
+
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+
+
+{{ border.commonName }}
+
+
+
+
+ Next Public Holidays in {{ countryInfo.commonName }}
+
+
+
+
+Date
+Local Name
+English Name
+
+
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Countries
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+                                No country found
+                            
+
+
+
+
+
+
+ Next Public Holidays Worldwide in the next 7 days
+
+
+
+
+Date
+Name
+Country
+
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+
+
+
+
+
+
+ Interesting countries for their region
+
+
+
+
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+
+
+{{ border.commonName }}
+
+
+
+
+ Next Public Holidays in {{ countryInfo.commonName }}
+
+
+
+
+Date
+Local Name
+English Name
+
+
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+
+
+
+
+
+
+
+
+ Countries
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+                                No country found
+                            
+
+
+
+
+
+
+ Next Public Holidays Worldwide in the next 7 days
+
+
+
+
+Date
+Name
+Country
+
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+
+
+
+
+
+
+ Interesting countries for their region
+
+
+
+
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+
+
+{{ border.commonName }}
+
+
+
+
+ Next Public Holidays in {{ countryInfo.commonName }}
+
+
+
+
+Date
+Local Name
+English Name
+
+
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+
+
+
+
+
+
+ Countries
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+                                No country found
+                            
+
+
+
+
+
+
+ Next Public Holidays Worldwide in the next 7 days
+
+
+
+
+Date
+Name
+Country
+
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+
+
+
+
+
+ Countries
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+                                No country found
+                            
+
+
+
+
+ Countries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+                                No country found
+                            
+
+
+
+
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+                                No country found
+                            
+
+
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+                                No country found
+                            
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+
+
+{{ item.name }} ({{ item.countryCode }})
+
+{{ item.name }} ({{ item.countryCode }})
+{{ item.name }} ({{ item.countryCode }})
+
+                                No country found
+                            
+
+
+ Next Public Holidays Worldwide in the next 7 days
+
+
+
+
+Date
+Name
+Country
+
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+
+
+
+
+ Next Public Holidays Worldwide in the next 7 days
+
+
+
+
+Date
+Name
+Country
+
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+
+
+ Next Public Holidays Worldwide in the next 7 days
+
+
+
+
+
+
+Date
+Name
+Country
+
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+
+
+
+
+Date
+Name
+Country
+
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+
+
+Date
+Name
+Country
+
+
+
+Date
+Name
+Country
+
+Date
+Name
+Country
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+
+{{ shortLocalDate(item.date) }}
+{{ item.name }}
+{{ getCountryName(item.countryCode) }}
+{{ getCountryName(item.countryCode) }}
+
+
+ Interesting countries for their region
+
+
+
+
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+
+
+{{ border.commonName }}
+
+
+
+
+ Next Public Holidays in {{ countryInfo.commonName }}
+
+
+
+
+Date
+Local Name
+English Name
+
+
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+
+
+
+
+ Interesting countries for their region
+
+
+
+
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+
+
+{{ border.commonName }}
+
+
+
+ Interesting countries for their region
+
+
+
+
+
+
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+
+
+{{ border.commonName }}
+
+
+
+
+
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+
+{{ border.commonName }}
+
+
+
+
+
+
+{{ border.commonName }}
+
+ Next Public Holidays in {{ countryInfo.commonName }}
+
+
+
+
+Date
+Local Name
+English Name
+
+
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+
+
+ Next Public Holidays in {{ countryInfo.commonName }}
+
+
+{{ countryInfo.commonName }}
+
+
+
+
+Date
+Local Name
+English Name
+
+
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+
+
+
+
+Date
+Local Name
+English Name
+
+
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+
+
+Date
+Local Name
+English Name
+
+
+
+Date
+Local Name
+English Name
+
+Date
+Local Name
+English Name
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+{{ longLocalDate(item.date) }}
+{{ item.localName }}
+{{ item.name }}
+
+
+
+
+    import { createApp } from '/lib/petite-vue/petite-vue.es.min.js'
+
+    createApp({
+
+        // data
+        hideNavigation: true,
+
+        // methods
+        show() {
+            this.hideNavigation = !this.hideNavigation
+        }
+
+    }).mount('#navigation')
+
+    
+
+
+import { createApp } from '/lib/petite-vue/petite-vue.es.min.js'
+
+createApp({
+
+    // data
+    countryCode: null,
+    countryInfo: null,
+    availableCountries: null,
+    publicHolidays: null,
+    publicHolidaysWorldwide: null,
+    search: null,
+
+    // computed
+    get filteredCountries() {
+        if (this.search === null) {
+            return this.availableCountries
+        }
+
+        const search = this.search.toLowerCase()
+        const filteredItems = this.availableCountries.filter(o => o.countryCode.toLowerCase().includes(search) || o.name.toLowerCase().includes(search))
+
+        return filteredItems
+    },
+
+    // methods
+    async loadData() {
+        await this.getAvailableCountries()
+        this.getCurrentCountryViaBrowser()
+        await this.getCountryInfo()
+        await this.getNextPublicHolidaysWorldwide()
+    },
+    getCurrentCountryViaBrowser() {
+        for (const language of navigator.languages) {
+            const locale = new Intl.Locale(language)
+            if (locale.region) {
+                this.countryCode = locale.region
+                break;
+            }
+        }
+
+        if (!this.countryCode) {
+            this.countryCode = 'en'
+        }
+    },
+    getCountryName(countryCode) {
+        if (!this.availableCountries) {
+            return
+        }
+        return this.availableCountries && this.availableCountries.find(o => o.countryCode === countryCode).name
+    },
+    shortLocalDate(date) {
+        return dayjs(date).format('DD MMM YYYY')
+    },
+    longLocalDate(date) {
+        return dayjs(date).format('ddd DD MMM YYYY')
+    },
+    async getAvailableCountries() {
+        const response = await axios.get('/Api/v3/AvailableCountries')
+        this.availableCountries = response.data
+    },
+    async getCountryInfo() {
+        const response = await axios.get(`/Api/v3/CountryInfo/${this.countryCode}`)
+        this.countryInfo = response.data
+        this.getNextPublicHolidays()
+    },
+    async getNextPublicHolidays() {
+        const response = await axios.get(`/Api/v3/NextPublicHolidays/${this.countryInfo.countryCode}`)
+        this.publicHolidays = response.data
+    },
+    async getNextPublicHolidaysWorldwide() {
+        const response = await axios.get('/Api/v3/NextPublicHolidaysWorldwide')
+        this.publicHolidaysWorldwide = response.data
+    }
+}).mount('#app')
+
+
+
+
+
+
+
+Community
+Nager.Date is an open source project
+                        Released under the MIT License
+
+Visit us on GitHub
+Visit us on dockerhub
+
+                        You are welcome to actively participate in this project
+
+Report a bug
+Actively contribute to the project
+
+
+
+Navigation
+Countries
+Api Documentation
+Change Log
+
+
+Site Information
+Imprint
+Privacy policy
+
+
+
+
+
+
+
+
+Community
+Nager.Date is an open source project
+                        Released under the MIT License
+
+Visit us on GitHub
+Visit us on dockerhub
+
+                        You are welcome to actively participate in this project
+
+Report a bug
+Actively contribute to the project
+
+
+
+Navigation
+Countries
+Api Documentation
+Change Log
+
+
+Site Information
+Imprint
+Privacy policy
+
+
+
+
+
+
+Community
+Nager.Date is an open source project
+                        Released under the MIT License
+
+Visit us on GitHub
+Visit us on dockerhub
+
+                        You are welcome to actively participate in this project
+
+Report a bug
+Actively contribute to the project
+
+
+
+Navigation
+Countries
+Api Documentation
+Change Log
+
+
+Site Information
+Imprint
+Privacy policy
+
+
+
+
+Community
+Nager.Date is an open source project
+                        Released under the MIT License
+
+Visit us on GitHub
+Visit us on dockerhub
+
+                        You are welcome to actively participate in this project
+
+Report a bug
+Actively contribute to the project
+
+
+
+Community
+Nager.Date is an open source project
+                        Released under the MIT License
+
+Visit us on GitHub
+Visit us on dockerhub
+
+                        You are welcome to actively participate in this project
+
+Report a bug
+Actively contribute to the project
+
+Community
+Nager.Date
+
+
+
+Visit us on GitHub
+
+Visit us on dockerhub
+
+
+
+
+Report a bug
+
+Actively contribute to the project
+
+
+Navigation
+Countries
+Api Documentation
+Change Log
+
+Navigation
+Countries
+
+Api Documentation
+
+Change Log
+
+Site Information
+Imprint
+Privacy policy
+
+Site Information
+Imprint
+
+Privacy policy
+
+        Copyright © 2022 nager.at
+    
